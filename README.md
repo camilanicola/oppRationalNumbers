@@ -1,5 +1,5 @@
 # oppRationalNumbers
-Exercício de estudo de Programação e Desenvolvimento de Software, com foco na linguagem CPP. Segue o enunciado:
+Exercício de estudo de Programação e Desenvolvimento de Software, com foco na linguagem CPP. O arquivo main e a biblioteca "racional.h" foram disponibilizados pelo professor Thiago Ferreira de Noronha, docente da UFMG. Segue o enunciado:
 
 Neste VPL, vocês implementarão um TAD que representa números racionais, ou seja, números que podem ser representados por uma fração a/b.
 
